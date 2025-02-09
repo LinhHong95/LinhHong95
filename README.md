@@ -11,7 +11,16 @@ Always eager to learn, I bring a unique blend of **entrepreneurship, strategy, a
 - Excel/ Google Sheets
 - SQL: Google BigQuery, PostgreSQL
 - Power BI: Power Query, Data Modelling, DAX
-    
+## Featured Projects  
+<a href="https://github.com/LinhHong95/Customer-Churn-Analysis">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LinhHong95&repo=Customer-Churn-Analysis&theme=vue-dark" />
+</a>  
+<a href="https://github.com/LinhHong95/AdventureWorks-Sales-Report">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LinhHong95&repo=AdventureWorks-Sales-Report&theme=vue-dark" />
+</a>  
+
 ## 📣 Let's Connect
 - [LinkedIn](www.linkedin.com/in/linh-hong-18273a303)
 - [Email](mailto:linhhong.analyst@gmail.com)
