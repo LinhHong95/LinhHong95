@@ -32,6 +32,7 @@ Always eager to learn, I bring a unique blend of **entrepreneurship, strategy, a
       </a>
     </td>
   </tr>
+</table>
 
   
 ## 📣 Let's Connect
