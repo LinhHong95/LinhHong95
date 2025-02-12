@@ -20,6 +20,10 @@ Always eager to learn, I bring a unique blend of entrepreneurship, strategy, and
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LinhHong95&repo=AdventureWorks-Sales-Report&theme=vue-dark" />
 </a>  
+<a href="https://github.com/LinhHong95/E-commerce-Customer-Engagement-Purchasing-Behavior-Analysis">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LinhHong95&repo=E-commerce-Customer-Engagement-Purchasing-Behavior-Analysis&theme=vue-dark" />
+</a> 
 
 ## 📣 Let's Connect
 - [LinkedIn](www.linkedin.com/in/linh-hong-18273a303)
