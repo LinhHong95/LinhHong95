@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Linh!
-I'm a **Business Insights Analyst** with 6+ years of experience in **entrepreneurship and business strategy**. I’m passionate about storytelling with data. 
+I'm a **Business Insights Analyst** with 6+ years of experience in **retail entrepreneurship and business strategy**. I’m passionate about storytelling with data. 
 
 🔍 **What I Do:**  
 - Transform raw data into actionable insights
